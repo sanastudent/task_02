@@ -45,10 +45,10 @@ Layered thinking keeps the system scalable, organized, and professional, while r
 
 
 ## Screenshot 1
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](assignment/images/screenshot1.png)
 
 ## Screenshot 2
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](assignment/images/screenshot2.png)
 
 
 ## Part C — Multiple Choice Questions
